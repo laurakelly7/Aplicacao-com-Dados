@@ -1,0 +1,57 @@
+Base de dados: 
+https://www.gov.br/ancine/pt-br/oca/cinema-
+
+Titulo da nossa Base:
+Listagem de Filmes Brasileiros Lançados 1995 a 2021
+
+
+Perguntas:
+
+
+Julia:
+1- Quantidade de filmes produzidos em 2007 de cada gênero?
+
+2- Qual o principal gênero de filme exibido em Minas Gerais ?
+
+3- Qual a média de público das salas no período de 2010 a 2012
+
+4- Quais as distribuidoras mais distribuíram filmes ?
+
+5- Qual a média total das UF's em todos os anos?
+
+Isaque:
+6 - Qual a quantidade de filmes que foi reproduzido por ano ?
+
+7 - Qual a quantidade de filmes na área do gênero ficção científica ? 
+
+8 - Quantos tipos de filme, comédia e terror teve entre 2010 a 2015 ? 
+
+9 - Qual o total de públicos que teve no período de 2015 a 2018?
+
+10 - Qual a quantidade de filmes produzidos em todos os UF 's ?
+
+Laura:
+11 - Qual o total de renda dos filmes que teve no ano 2016 por gênero?
+
+12 - Quais os estados possuem a maior quantidade de primeira exibição de filmes ?
+
+13 - Quantos filmes a empresa Agravo Produções Cinematográficas vendeu no período de 2004  a 2000?
+
+14 - Quantos filmes por empresa foram produzidos entre os anos 1995 a 2010 ? 
+
+15 - Quantos filmes a direção de Paulo César Saraceni fez em cada ano no período de 1995 até 2000 ?
+
+
+
+Perguntas Escolhidas:
+
+1 - Quantidade de filmes produzidos em 2007 de cada gênero? (barra)
+
+2 - Qual a quantidade de filmes que foi reproduzido por ano ? (linha)
+
+3 - Qual o principal gênero de filme exibido em Minas Gerais ? (pizza)
+
+4 - Quais os estados possuem a maior quantidade de primeira exibição de filmes ? (barra)
+
+5 - Quais as distribuidoras mais distribuíram filmes ? (pizza)
+
